@@ -8,7 +8,7 @@ function App() {
     <>
       <Header />
       <Navbar />
-      <main>This the Body</main>
+      <main></main>
       <Footer />
     </>
   );
