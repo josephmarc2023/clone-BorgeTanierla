@@ -1,0 +1,5 @@
+footer {
+  display: flex;
+  text-align: right;
+  justify-items: right;
+}

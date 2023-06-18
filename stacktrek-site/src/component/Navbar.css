@@ -1,0 +1,19 @@
+nav {
+  margin-top: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: white;
+}
+ul {
+  display: flex;
+  margin: 20px 0px;
+  list-style: none;
+}
+ul li {
+  font-family: century;
+  font-size: medium;
+  font-weight: bold;
+  color: gray;
+}
